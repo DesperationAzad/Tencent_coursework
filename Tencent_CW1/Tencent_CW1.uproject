@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0375156C-4DEF-1307-EE7A-FEA9A58FF106}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Tencent_CW1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
